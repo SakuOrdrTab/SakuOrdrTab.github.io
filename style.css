@@ -1,5 +1,5 @@
 /* Target all images with the class "resized-image" */
 .resized-image {
   width: 100px; /* Adjust width as desired */
-  height: 75px; /* Adjust height as desired */
+  height: 100px; /* Adjust height as desired */
 }
